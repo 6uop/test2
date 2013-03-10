@@ -1,6 +1,6 @@
 module.exports = test ;
 
-var $ = require('component-jquery');
+var $ = require('jquery');
 function test(){
 	$('body').append('<div class="test">hello world!</div>');
 }
