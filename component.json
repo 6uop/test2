@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "repo": "6uop/test2",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+      "component/jquery": "*"
+    },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
